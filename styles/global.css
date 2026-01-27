@@ -40,7 +40,7 @@ h1, h2, h3 {
   
 }
 
-.conteiner {
+.container {
   max-width: 1280px;
   padding-inline: 32px ;
   margin-inline: auto;
@@ -52,6 +52,7 @@ img {
 
 main {
   margin-top: 40px;
+  gap: 80px;
 }
 
 .content-tag {
